@@ -18,7 +18,7 @@ describe('App', () => {
       // ACT
       // EXPECT
       expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(
-        'Portfólio'
+        'Home Page'
       );
     });
 
