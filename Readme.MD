@@ -1,7 +1,8 @@
-# React Kit
-## Vite, React, TypeScript, ESLint (AirBnB), Vitest (RTL + Jest-DOM), React Router Dom
+# React Boilerplate
+## Vite, React, TypeScript
+### ESLint (AirBnB), Vitest (RTL + Jest-DOM), React Router Dom
 
-### Comandos
+### Commands used in configuration
 
 1. npm create vite@latest
 2. npm i
@@ -15,7 +16,7 @@
 10. npm install react-router-dom@6
 
 
-### Referências
+### References
 
 - https://www.youtube.com/watch?app=desktop&v=cchqeWY0Nak
 - https://airbnb.io/javascript/react/
