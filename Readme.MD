@@ -1,4 +1,4 @@
-# FJF.dev React Kit
+# React Kit
 ## Vite, React, TypeScript, ESLint (AirBnB), Vitest (RTL + Jest-DOM), React Router Dom
 
 ### Comandos
